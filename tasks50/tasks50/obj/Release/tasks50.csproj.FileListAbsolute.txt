@@ -1,0 +1,5 @@
+C:\Users\Iliya\documents\visual studio 2013\Projects\tasks50\tasks50\bin\Release\tasks50.exe.config
+C:\Users\Iliya\documents\visual studio 2013\Projects\tasks50\tasks50\bin\Release\tasks50.exe
+C:\Users\Iliya\documents\visual studio 2013\Projects\tasks50\tasks50\bin\Release\tasks50.pdb
+C:\Users\Iliya\documents\visual studio 2013\Projects\tasks50\tasks50\obj\Release\tasks50.exe
+C:\Users\Iliya\documents\visual studio 2013\Projects\tasks50\tasks50\obj\Release\tasks50.pdb

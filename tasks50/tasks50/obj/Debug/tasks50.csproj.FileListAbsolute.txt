@@ -1,0 +1,6 @@
+c:\users\iliya\documents\visual studio 2013\Projects\tasks50\tasks50\bin\Debug\tasks50.exe.config
+c:\users\iliya\documents\visual studio 2013\Projects\tasks50\tasks50\bin\Debug\tasks50.exe
+c:\users\iliya\documents\visual studio 2013\Projects\tasks50\tasks50\bin\Debug\tasks50.pdb
+c:\users\iliya\documents\visual studio 2013\Projects\tasks50\tasks50\obj\Debug\tasks50.csprojResolveAssemblyReference.cache
+c:\users\iliya\documents\visual studio 2013\Projects\tasks50\tasks50\obj\Debug\tasks50.exe
+c:\users\iliya\documents\visual studio 2013\Projects\tasks50\tasks50\obj\Debug\tasks50.pdb
